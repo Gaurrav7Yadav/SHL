@@ -25,6 +25,9 @@ The frontend is built with React and TypeScript, using Vite as the build tool. I
 - **Services**: API communication layer
 - **Hooks**: Custom React hooks
 - **Types**: TypeScript type definitions
+<img width="1464" alt="Screenshot 2025-04-07 at 12 44 48 AM" src="https://github.com/user-attachments/assets/4a532820-67ab-4265-9c07-969fa64aa2cc" />
+<img width="1470" alt="Screenshot 2025-04-07 at 12 45 16 AM" src="https://github.com/user-attachments/assets/de595778-8d71-47e3-93c1-b125de5b304b" />
+<img width="1462" alt="Screenshot 2025-04-07 at 12 45 39 AM" src="https://github.com/user-attachments/assets/675a61d6-111e-4e9f-b366-dd766b69208a" />
 
 ### Backend Architecture
 
